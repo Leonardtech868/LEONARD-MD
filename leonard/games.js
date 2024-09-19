@@ -144,7 +144,7 @@ zokou(
          let quizz = await axios.get("https://quizzapi.jomoreschi.fr/api/v1/quiz?limit=1&difficulty=facile") ;
 
          
-   let msg = `     joel-quizz-games
+   let msg = `     leonard-quizz-games
 
 *Categorie :* ${quizz.data.quizzes[0].category}
 *Question :* ${quizz.data.quizzes[0].question}\n\n*Propositon de reponses :*\n`
