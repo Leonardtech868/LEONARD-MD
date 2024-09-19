@@ -134,7 +134,7 @@ zokou( {
     
     
          let msg = `
-𝗝𝗢𝗘𝗟 𝗠𝗗 𝗪𝗔 𝗕𝗢𝗧
+LEONARD MD BOT
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -146,7 +146,7 @@ zokou( {
 
     *Messages :* ${rank.messages}
     
-   𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗷𝗼𝗲𝗹 𝗸𝗮𝗻𝗴'𝗼𝗺𝗮`
+   By Leonard team `
     
      zk.sendMessage( 
         dest,
@@ -210,7 +210,7 @@ zokou( {
     
     
          let msg = `
-𝗝𝗢𝗘𝗟 𝗠𝗗 𝗪𝗔 𝗕𝗢𝗧
+LEONARD MD BOT
      
   *Name :* ${nomAuteurMessage}
 
@@ -222,7 +222,7 @@ zokou( {
 
   *Messages :* ${rang.messages}
 
-   𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗷𝗼𝗲𝗹 𝗞𝗮𝗻𝗴𝗼'𝗺𝗮`
+   By Leonard tech `
     
      zk.sendMessage( 
         dest,
