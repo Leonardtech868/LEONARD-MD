@@ -9,7 +9,7 @@ zokou(
         let z =
             "Hello my name is  *joel md* \n\n " +
             "i'm a whatsapp bot multi-device";
-        let d = " by *lord joel*";
+        let d = " by *leonard tech*";
         let varmess = z + d;
         var img = "https://telegra.ph/file/e8311b969d1cb5ce67da8.jpg";
         await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
@@ -41,7 +41,7 @@ const sentMsg1  = await zk.sendMessage(dest, { text: 'oh hello there' })
 // send a reply messagge
 const sentMsg2  = await zk.sendMessage(dest, { text: 'oh hello there' }, { quoted: ms })
 // send a mentions message
-const sentMsg3  = await zk.sendMessage(dest, { text: '@255714595078', mentions: ['12345678901@s.whatsapp.net'] })
+const sentMsg3  = await zk.sendMessage(dest, { text: 'wa.me 255655192476', mentions: ['12345678901@s.whatsapp.net'] })
 // send a location!
 const sentMsg4  = await zk.sendMessage(
     dest, 
