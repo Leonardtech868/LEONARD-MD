@@ -1,9 +1,9 @@
 {
-  "name":"HACKING-MD",
-  "description":"bot whatsapp développé par thomas",
+  "name":"LEONARD-MD",
+  "description":"A WhatsApp bot developed by Leonard tech ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/b8e378f61794498c29c34.jpg",
-  "repository":"https://github.com/HACKING995/HACKING956",
+  "repository":"https://github.com/Leonardtech868/LEONARD-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -21,7 +21,7 @@
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
     ,
@@ -30,19 +30,12 @@
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
       "required":false
-    }
-    ,
-    "BOT_NAME" : {
-       
-      "description":"put A name for your bot",
-      "value":"HACKING-MD",
-      "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/b8e378f61794498c29c34.jpg",
+      "value":"",
       "required":false
        
      },
@@ -74,26 +67,15 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Thomas"
+    "value": "Leonard tech"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "2250545065189"
-  },
-    "WARN_COUNT":
-  {
-    "desc": "this is the limit of warn for warning commandes",
-    "required": false,
-    "value": "3"
-  },
-  "STARTING_BOT_MESSAGE":
-  {
-    "description": "if you don't want startting-bot-message put no else put yes",
-    "required": true,
-    "value": "yes"
+    "value": "255655192476"
+  
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
@@ -102,7 +84,7 @@
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
