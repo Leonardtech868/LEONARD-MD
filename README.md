@@ -70,3 +70,16 @@
 
 
 ### CONTACT OWNER 
+
+
+
+<table>
+  <tr>
+    <td>Leonard tech</td>
+    <td>wa channel</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@joeltech255?si=rqhYlAhFtqK7CVX2"><img src="https://telegra.ph/file/864b974e301ccac54c793.jpg" width="180"</td>
+    <td><a href="https://www.tiktok.com/@joeljamestech"><img src="https://telegra.ph/file/89750a960df185dcf5fd9.jpg" width="180"</td>
+  </tr>
+</table>
