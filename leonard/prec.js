@@ -14,7 +14,7 @@ const s = require(__dirname + "/../set");
 
 
 
-zokou({ nomCom: "2025", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
 
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
 
@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ ⌜ ᴊᴏᴇʟ ᴍᴅ ⌟ ❐
+┏❏ LEONARD MD ❏
 ┃ ⿻Mode: ${mode}
 ┃ ⿻User : ${s.OWNER_NAME}
 ┃ ⿻Library : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━┓
-┣joel cmds
+┣leonard cmds
 ┗━━━━━━━━━┛\n
 
 
@@ -109,17 +109,7 @@ let menuMsg = `
 
 
 
-    menuMsg += `
-
-
-︎┏━━━━━━━━━━━━━━┓
-️┣❏joel md 2025
-┣❏happy new year 
-┗┳━━━━━━━━━━━━┳┛
-┏┻━━━━━━━━━━━━┻┓
-┃powered by joel tech
-┗━━━━━━━━━━━━━━┛\n
-
+    menuMsg += '
 
 `;
 
