@@ -77,16 +77,10 @@ const date = moment().format('DD/MM/YYYY');
 ┗━━━━━━━━━━━━━━┛\n\n`;
 
 
-    
-
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏comannds
+┣leonard comannds
 ┗━━━━━━━━━━━━━━┛\n
-
-
-
-
 
 `;
 
@@ -114,13 +108,10 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏leonard md 
+️┣leonard md 
 ┗━━━━━━━━━━━━━━┛\n
 
-
-┏━━━━━━━━━━━━━━┓
-┃
-┗━━━━━━━━━━━━━━┛\n
+\n
 
 
 `;
