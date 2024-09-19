@@ -14,7 +14,7 @@ const s = require(__dirname + "/../set");
 
 
 
-zokou({ nomCom: "joel", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "joel", categorie: "menu" }, async (dest, zk, commandeOptions) => {
 
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
 
@@ -65,27 +65,29 @@ const date = moment().format('DD/MM/YYYY');
 
 
   let infoMsg =  `
-
- 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙟𝙤𝙚𝙡 𝙠𝙖𝙣𝙜'𝙤𝙢𝙖
-┃   Mode: ${mode}
-┃   User : ${s.OWNER_NAME}
-┃
- 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙟𝙤𝙚𝙡 𝙠𝙖𝙣𝙜'𝙤𝙢𝙖
- 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙟𝙤𝙚𝙡 𝙠𝙖𝙣𝙜'𝙤𝙢𝙖\n\n`;
+┏❏𝙻𝙴𝙾𝙽𝙰𝚁𝙳 𝙼𝙳❏
+╏۞prefix : ${s.PREFIXE}
+╏۞time : ${temps}
+╏۞date : ${date}
+╏۞mode : ${mode}
+╏۞plugin : ${cm.length}
+╏۞theme : leonard tech
+╏۞ram : 21.9/60.9 GB
+╏۞library : Wb bailways 
+┗━━━━━━━━━━━━━━┛\n\n`;
 
 
     
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏joel md bot 
-┣❏©joel _it🕷️
+┣❏comannds
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-𒈒joel md cmds𒈒
+
 `;
 
 
@@ -112,13 +114,12 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏joel md bot 
-┣❏© by joel tech 
+️┣❏leonard md 
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃regards to joel_it
+┃
 ┗━━━━━━━━━━━━━━┛\n
 
 
