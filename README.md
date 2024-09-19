@@ -1,6 +1,5 @@
- ### LEONARD MD
+ ### LEONARD MD WA BOT
  ![_71747bd2-b56b-48a3-abff-b59107bc16ac](https://github.com/user-attachments/assets/b1c19e29-3fc6-47eb-a34f-f1b84553f4ff)
- ## ENJOY LEONARD MD WA BOT
 
 
 
