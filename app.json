@@ -2,7 +2,7 @@
   "name":"LEONARD-MD",
   "description":"A WhatsApp bot developed by Leonard tech ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/b8e378f61794498c29c34.jpg",
+  "logo":"",
   "repository":"https://github.com/Leonardtech868/LEONARD-MD",
   "succes_url":"/",
   "stack":"container",
