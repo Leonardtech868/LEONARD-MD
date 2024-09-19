@@ -827,7 +827,7 @@ ${metadata.desc}\n\nyoutube channel https://youtube.com/@joeltech255?si=rqhYlAhF
                 fs.readdirSync(__dirname + "/leonard").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/leonaro/" + fichier);
+                            require(__dirname + "/leonard/" + fichier);
                             console.log(fichier + "Successfully installed leonard md commands✔️");
                         }
                         catch (e) {
