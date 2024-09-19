@@ -6,7 +6,7 @@ const {zokou}=require("../framework/zokou")
 
 
 
-zokou({nomCom:"reboot",categorie:"Mods",reaction:"👨🏿‍💼"},async(dest,z,com)=>{
+zokou({nomCom:"logout",categorie:"Mods",reaction:"👨🏿‍💼"},async(dest,z,com)=>{
 
 
   
@@ -19,9 +19,9 @@ const{repondre,ms,dev,superUser}=com;
 
   const {exec}=require("child_process")
 
-    repondre("*rebooting ...*");
+    repondre("*login out*");
 
-  exec("pm2 restart all");
+  exec("pm2 log out");
   
 
   
