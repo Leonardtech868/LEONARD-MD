@@ -3,24 +3,23 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐓𝐇𝐄+𝐁𝐄𝐒𝐓+𝐅𝐑𝐎𝐌+Dark-Love-MD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐓𝐇𝐄+𝐁𝐄𝐒𝐓+𝐁𝐎𝐓+𝐅𝐑𝐎𝐌+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇)](https://git.io/typing-svg)
 
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗖𝗢𝗗𝗘+𝗕𝗬+Dark-Love-MD+Enjoy!!!)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐎𝐖+𝐓𝐎+𝐃𝐄𝐏𝐋𝐎𝐘+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃) ](https://git.io/typing-svg)
 
 
 
 
 
 
+### 01.FIRST STEP 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝐓𝐇𝐈𝐒+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
   
@@ -30,9 +29,11 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+
+ ### 02.SECOND STEP
  
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐆𝐄𝐓+𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃)](https://git.io/typing-svg)
  
 
 
@@ -42,13 +43,14 @@
 
 
 
+### 03.THIRD STEP
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
  
  
-
 
 
 
