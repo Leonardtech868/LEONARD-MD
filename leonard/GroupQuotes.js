@@ -19,7 +19,7 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by joel md`);
+Powered by leonard md`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -31,13 +31,13 @@ Powered by joel md`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`joel md
+          repondre(`leonard md
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *joel tech*`);
+Powered by *leonard tech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
