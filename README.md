@@ -74,4 +74,3 @@
 
 
 <a href="https://wa.me/255655192476"target="_blank">
-      <img alt="whatsapp Group"src="https://img.shields.io/badge/Leonard contact -255L66? style=for-the-badge&logo=whatsapp&logo color=white"/>
