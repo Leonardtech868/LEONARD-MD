@@ -73,4 +73,5 @@
 
 
 
-<a href="https://wa.me/255655192476"target="_blank"><img alt="whatsapp Group"
+<a href="https://wa.me/255655192476"target="_blank=>
+        <img alt="whatsapp Group" src="https://img shields.io/badge/Leonard cintact -25L66?style=for-the-badge&logo=whatsapp&logo corol=white"/>
