@@ -73,13 +73,5 @@
 
 
 
-<table>
-  <tr>
-    <td>Leonard tech</td>
-    <td>wa channel</td>
-  </tr>
-  <tr>
-    <td><a href="https://wa.link/dfa6wg"
-    <td><a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"
-  </tr>
-</table>
+<a href="https://wa.me/255655192476"target="_blank">
+      <img alt="whatsapp Group"src="https://img.shields.io/badge/Leonard contact -255L66? style=for-the-badge&logo=whatsapp&logo color=white"/>
