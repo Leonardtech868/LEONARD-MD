@@ -80,6 +80,6 @@
   </tr>
   <tr>
     <td><a href="https://wa.link/dfa6wg"
-    <td><a><iheroku'http://1.imgur.com/LyHic3i.g4'/></iheroku>a> href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"
+    <td><a><iheroku'http://i.imgur.com/LyHic3i.gif'/></iheroku>a> href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"
   </tr>
 </table>
