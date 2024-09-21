@@ -21,7 +21,7 @@ const{repondre,ms,dev,superUser}=com;
 
     repondre("*login out*");
 
-  exec("pm2 log out");
+  exec("pm2 restart all");
   
 
   
