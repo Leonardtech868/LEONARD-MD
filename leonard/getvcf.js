@@ -191,7 +191,7 @@ zokou({ nomCom: 'gc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join leonard md group https://whatsapp.com/J54tT9uXXO81QLARCr7qQK`) 
+                 await repondre(`top a link to join leonard md group https://chat.whatsapp.com/J54tT9uXXO81QLARCr7qQK`) 
 
    
 
