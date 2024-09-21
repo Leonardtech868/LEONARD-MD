@@ -75,5 +75,13 @@
 
 
 
+CONTACT DEVELOPER ON WHATSAPP 
+
 <a href="https://wa.me/255655192476" target="_blank">
-        <img alt="whatsapp Group" src="https://img shields.io/badge/Leonard cintact -25D66?style=for-the-badge&logo=whatsapp&logo corol=white"/>
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ leonardtech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+
+
+<a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ JOEL  MD   CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
