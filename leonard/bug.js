@@ -117,7 +117,7 @@ async function sendbug(dest, zk, ms, repondre, amount, victims, bug) {
 // bug menu
 zokou(
     {
-        nomCom: "boniphacebugs",
+        nomCom: "leonardbugs",
         categorie: "menu",
         reaction: "🅱️",
     },
@@ -190,7 +190,7 @@ docugcbug <grouplink>${mono}`;
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G",
+                                        "https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14,
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
@@ -241,7 +241,7 @@ zokou(
                     bugpdf
             });
         }
-        await zk.sendMessage(dest, { react: { text: "🅱️", key: ms.key } });
+        await zk.sendMessage(dest, { react: { text: "☯️", key: ms.key } });
     }
 );
 
@@ -250,7 +250,7 @@ zokou(
     {
         nomCom: "crash",
         categorie: "menu",
-        reaction: "🛡️",
+        reaction: "☯️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -307,7 +307,7 @@ zokou(
     {
         nomCom: "crashbug",
         categorie: "menu",
-        reaction: "🛡️"
+        reaction: "☯️"
     },
 
     async (dest, zk, commandOptions) => {
@@ -398,7 +398,7 @@ zokou(
     {
         nomCom: "amountbug",
         categorie: "menu",
-        reaction: "🛡️",
+        reaction: "☯️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -455,7 +455,7 @@ zokou(
     {
         nomCom: "pmbug",
         categorie: "menu",
-        reaction: "🛡️",
+        reaction: "☯️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -539,7 +539,7 @@ zokou(
     {
         nomCom: "delaybug",
         categorie: "menu",
-        reaction: "🕷️*,
+        reaction: "🔴*,
     },
 
     async (dest, zk, commandOptions) => {
