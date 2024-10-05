@@ -19,7 +19,7 @@ const { bugtext6 } = require("../framework/bugs/bugtext6");
 const { bugpdf } = require("../framework/bugs/bugpdf.js");
 
 const category = "menu";
-const reaction = "🛡️";
+const reaction = "☯️";
 
 const mess = {};
 mess.prem = "You are not authorised to use this  command !!!";
@@ -119,7 +119,7 @@ zokou(
     {
         nomCom: "leonardbugs",
         categorie: "menu",
-        reaction: "🅱️",
+        reaction: "☯️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -209,7 +209,7 @@ zokou(
     {
         nomCom: "bug",
         categorie: "menu",
-        reaction: "🛡️",
+        reaction: "☯️",
     },
 
     async (dest, zk, commandOptions) => {
@@ -539,7 +539,7 @@ zokou(
     {
         nomCom: "delaybug",
         categorie: "menu",
-        reaction: "🔴*,
+        reaction: "☯️*,
     },
 
     async (dest, zk, commandOptions) => {
