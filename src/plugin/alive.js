@@ -64,7 +64,7 @@ const alive = async (m, Matrix) => {
               text: uptimeMessage
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙹𝙾𝚎𝚕 𝚔𝚊𝚗𝚐'𝚘𝚖𝚊"
+              text: "𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐋𝐞𝐨𝐧𝐚𝐫𝐝 𝐓𝐞𝐜𝐡"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({ image: buffer }, { upload: Matrix.waUploadToServer })),
@@ -81,8 +81,8 @@ const alive = async (m, Matrix) => {
               forwardingScore: 999,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '255714595078@s.whatsapp.net',
-                newsletterName: "JOel",
+                newsletterJid: '255655192476@s.whatsapp.net',
+                newsletterName: "𝐋𝐞𝐨𝐧𝐚𝐫𝐝",
                 serverMessageId: 143
               }
             }
