@@ -1,10 +1,10 @@
 {
-  "name": "𝙹𝙾𝚎𝚕 𝙱𝚘𝚝",
-  "description": " 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙻𝙾𝚛𝚍 𝙹𝙾𝚎𝚕.",
+  "name": "𝐋𝐞𝐨𝐧𝐚𝐫𝐝 𝐛𝐨𝐭",
+  "description": " 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝐋𝐞𝐨𝐧𝐚𝐫𝐝 𝐓𝐞𝐜𝐡.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/joeljamestech2/JOEL",
+  "repository": "https://github.com/Leonardtech868/LEONARD-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
